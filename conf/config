@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost/biodb
+db.user=biodb
+db.pass=biopass
